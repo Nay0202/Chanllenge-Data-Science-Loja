@@ -63,7 +63,7 @@ A **Loja 3** obteve a melhor **média de avaliação (4,05)**, o que pode indica
 
 Com base na análise das médias das notas de avaliação de cada loja, observa-se que:
 
-![Gráfico de Vendas](imagens/4.png)
+![Gráfico de Vendas4](imagens/4.png)
 
 ## Frete médio por loja
 
