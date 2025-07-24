@@ -42,7 +42,7 @@ A **Loja 3** foi a que mais se destacou nas categorias de móveis e eletrônicos
 
 Já a **Loja 4** teve o menor desempenho em várias categorias, mas se destacou nas vendas de brinquedos e utilidades domésticas, indicando que pode estar atendendo um público mais voltado para o lar e para crianças.
 
-![Gráfico de Vendas](imagens/2 vendas por categoria e lojas.png)
+![Gráfico de Vendas](imagens/2.png)
 
 ## Média de avaliação das lojas
 
@@ -56,14 +56,14 @@ A **Loja 2** teve uma **média de 4,04**, reforçando seu perfil equilibrado e m
 
 A **Loja 3** obteve a melhor **média de avaliação (4,05)**, o que pode indicar uma maior satisfação dos clientes, refletindo uma boa experiência de compra, qualidade dos produtos e eficiência no atendimento e na entrega.
 
-![Gráfico de Vendas](imagens/3 médio da avalição das lojas.png)
+![Gráfico de Vendas](imagens/3.png)
 
 
 ## Produtos mais e menos vendidos
 
 Com base na análise das médias das notas de avaliação de cada loja, observa-se que:
 
-![Gráfico de Vendas](imagens/4 produtos mais e menos vendidos.png)
+![Gráfico de Vendas](imagens/4.png)
 
 ## Frete médio por loja
 
